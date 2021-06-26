@@ -7,4 +7,4 @@ Here is an example:
 ![](example.PNG)
 
 Here is how Fabien Roger and I did it:
-![](solution.PNG)
+![](solution.JPG)
